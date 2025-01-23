@@ -1,4 +1,4 @@
-# GiocoSede
+# GiocoSedie
 
 Il Gioco delle Sedie è un semplice programma Java che simula il gioco musicale.  
 Ogni partecipante cerca di sedersi su una delle sedie, ma ce n'è sempre una in meno rispetto ai giocatori. Chi non trova un posto viene eliminato.
